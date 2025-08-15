@@ -1,2 +1,2 @@
 # 2048-Game
-Just a basic game named 2048 for entertainment..
+Just a basic 2048 Game for entertainment..
